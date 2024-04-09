@@ -13,7 +13,7 @@ Integration with an Arduino board for voice-controlled hardware actions.
 Ability to turn on and off LEDs connected to the Arduino using voice commands.
 Getting Started
 Clone this repository to your local machine.
-Install the required Python libraries using pip install -r requirements.txt.
+Install the required Python libraries. pywhatkit, pyttsx3
 Connect an Arduino board to your computer.
 Review the code and comments:
 Note that lines 21 to 34 and lines 302 to 309 are commented out since they require an Arduino board connection.
